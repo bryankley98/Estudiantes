@@ -7,9 +7,8 @@
   ],
   "profile": {
     "name": "typicode"
-  }
-  ,
-  "lista":[
+  },
+  "lista": [
     {
         "id": 1,
         "cedula":131203232,
@@ -19,7 +18,7 @@
         "nombre":"Eduardo",
         "apellido": "Mauriri",
         "estado": "colombiano"
-    }
+    },
      {
        "id": 2,
         "cedula":1315262562,
