@@ -29,7 +29,7 @@
         "apellido": "Lopez",
         "estado": "Ecuador"
     },
-    "Profesor":               [
+    "Profesor": [              [
     {
         "id": 1,
         "cedula":131203232,
