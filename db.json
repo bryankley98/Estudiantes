@@ -8,4 +8,27 @@
   "profile": {
     "name": "typicode"
   }
+  ,
+  "lista":[
+    {
+        "id": 1,
+        "cedula":131203232,
+        "ciudad":"Manta",
+        "pais":"Ecuador",
+        "descripcion": "Catedratico uleam",
+        "nombre":"Eduardo",
+        "apellido": "Mauriri",
+        "estado": "colombiano"
+    }
+     {
+       "id": 2,
+        "cedula":1315262562,
+        "ciudad":"Portoviejo",
+        "pais":"Ecuador",
+        "descripcion": "Matematico uleam",
+        "nombre":"Alex",
+        "apellido": "Lopez",
+        "estado": "Ecuador"
+    }
+]
 }
