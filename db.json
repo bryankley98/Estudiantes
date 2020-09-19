@@ -15,8 +15,7 @@
         "pais":"Ecuador",
         "descripcion": "Catedratico uleam",
         "nombre":"Eduardo",
-        "apellido": "Mauriri",
-        "estado": "colombiano"
+        "apellido": "Mauriri"
     },
      {
         "cedula":1315262562,
@@ -24,8 +23,7 @@
         "pais":"Ecuador",
         "descripcion": "Matematico uleam",
         "nombre":"Alex",
-        "apellido": "Lopez",
-        "estado": "Ecuador"
+        "apellido": "Lopez"
     }
 ]
 }
